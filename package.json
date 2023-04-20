@@ -1,0 +1,26 @@
+{
+  "name": "bitails-socket-poc",
+  "version": "0.0.1",
+  "description": "bitails socket poc",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityapanther-vaionex/bitails-socket-poc.git"
+  },
+  "keywords": [
+    "nodejs",
+    "bitails"
+  ],
+  "author": "Aditya panther, vaionex Corp.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adityapanther-vaionex/bitails-socket-poc/issues"
+  },
+  "homepage": "https://github.com/adityapanther-vaionex/bitails-socket-poc#readme",
+  "dependencies": {
+    "socket.io-client": "^4.6.1"
+  }
+}
